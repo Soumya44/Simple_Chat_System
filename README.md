@@ -4,7 +4,7 @@ Real Time Chat System using HTML 5, CSS 3, Bootstrap 4 and JavaScript.
 
 <p align=center>
 <h1 align=center>####  Screenshots  ####</h1><br>
-    <img src="./assets/Screenshots/Screenshot(23).png">
+    <img src="./assets/Screenshots/Screenshot (23).png>
 </p>
 <br>
 
